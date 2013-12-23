@@ -1,6 +1,6 @@
 # sample .gitconfig file of mine
 #
-# last update: 2013.07.03.
+# last update: 2013.12.23.
 
 [alias]
 	co = checkout
@@ -13,10 +13,10 @@
 	dump = cat-file -p
 	unstage = reset HEAD --
 [user]
-	name = Sungjin Han
-	email = meinside@gmail.com
+	name = aceJacek
+	email = acejacek@gmail.com
 [github]
-	user = meinside
+	user = acejacek
 [color]
 	ui = auto
 [push]
