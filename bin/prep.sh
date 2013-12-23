@@ -11,7 +11,7 @@
 # by meinside@gmail.com
 
 #REPOSITORY="git@github.com:meinside/raspiconfigs.git"
-REPOSITORY="git://github.com/meinside/raspiconfigs.git"
+REPOSITORY="git://github.com/acejacek/raspiconfigs.git"
 TMP_DIR="$HOME/configs.tmp"
 
 echo -e "\033[32mThis script will setup several things for your Raspberry Pi\033[0m\n"
